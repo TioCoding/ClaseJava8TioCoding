@@ -1,7 +1,5 @@
 package clase.ifelse;
 
-import clase.metodo.Calculadora;
-
 public class Condicion {
 
 	public void verificaNumero(int numero){
@@ -14,7 +12,7 @@ public class Condicion {
 		// && = (true)(true)(true) ....... (false) = false
 		
 		// || = (true)(true)(true) = true;
-		// || = (true)(false)(false)....(false) = true;
+		// || = (true)(false)(false)......  (false) = true;
 		
 		//OPERADOR AND (&&) Ejemplo
 		
